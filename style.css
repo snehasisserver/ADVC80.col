@@ -1,0 +1,27 @@
+input{
+    margin: 10px;
+    width:200px;
+    height: 30px;
+}
+button{
+    width: 100px;
+    height: 40px;
+    margin-top:20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+#display_name_with_commas{
+   background-color: yellow;
+   border: 1px black;
+   padding: 10px;
+   border-radius: 30px;
+   width:70%;
+}
+
+#display_name_without_commas{
+    background-color: rgb(255, 81, 0);
+    border: 1px black;
+    padding: 10px;
+    border-radius: 30px;
+    width:70%;
+ }
